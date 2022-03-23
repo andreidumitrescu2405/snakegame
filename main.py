@@ -179,13 +179,3 @@ if __name__ == "__main__":
 
     
 
-'''
-Python Game Tutorial:
-https://www.youtube.com/watch?v=8dfePlONtls&ab_channel=freeCodeCamp.org
-1:13:23
-
-Pytorch for DeepLearning
-https://www.youtube.com/watch?v=GIsg-ZUy0MY&ab_channel=freeCodeCamp.org
-21:16
-
-'''
